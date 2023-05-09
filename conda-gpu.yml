@@ -8,8 +8,9 @@ dependencies:
   - cudnn
   - cudatoolkit==10.1.243
   - pip:
-    - tensorflow-gpu==2.1.2
-    - lxml
-    - tqdm
-    - seaborn
-    - pillow
+      - tensorflow-gpu==2.1.2
+      - lxml
+      - tqdm
+      - seaborn
+      - pillow
+      - scipy

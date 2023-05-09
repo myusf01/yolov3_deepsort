@@ -30,6 +30,9 @@ downloads/
 eggs/
 .eggs/
 lib/
+Lib/
+weights/*
+Scripts/
 lib64/
 parts/
 sdist/
